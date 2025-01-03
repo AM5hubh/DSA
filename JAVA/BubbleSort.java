@@ -1,3 +1,5 @@
+// Compare two adjacent values and swap accordingly
+
 class BubbleSort{
     public static void main(String args[]){
         int nums[] = {6,5,2,8,9,4,12,1,0};
