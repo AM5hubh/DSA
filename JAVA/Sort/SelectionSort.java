@@ -1,3 +1,4 @@
+package Sort;
 // find min or max,
 // if min move it to the left of array viceversa for max
 

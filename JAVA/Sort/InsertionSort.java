@@ -1,3 +1,4 @@
+package Sort;
 public class InsertionSort {
     public static void main(String args[]){
         int nums[] = {8,7,5,6};
